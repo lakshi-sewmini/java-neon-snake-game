@@ -79,6 +79,5 @@ java SnakeGame
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE). Feel free to modify, distribute, or use this project for your own learning!
 
-```
 
 
